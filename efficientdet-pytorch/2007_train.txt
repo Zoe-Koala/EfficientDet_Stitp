@@ -1,0 +1,1 @@
+D:\My_code\Python\efficientdet-pytorch-2/VOCdevkit/VOC2007/JPEGImages/0001.jpg

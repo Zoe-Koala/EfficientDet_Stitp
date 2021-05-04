@@ -1,0 +1,4 @@
+head
+hand
+tv
+phone

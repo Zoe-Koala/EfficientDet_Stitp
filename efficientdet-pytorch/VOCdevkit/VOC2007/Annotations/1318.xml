@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>1318.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>424</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>tv</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>221.74766355140184</xmin>
+      <ymin>0.4672897196261682</ymin>
+      <xmax>639</xmax>
+      <ymax>128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>phone</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>144.17757009345794</xmin>
+      <ymin>149.53271028037383</ymin>
+      <xmax>388.5700934579439</xmax>
+      <ymax>230.8411214953271</ymax>
+    </bndbox>
+  </object>
+</annotation>

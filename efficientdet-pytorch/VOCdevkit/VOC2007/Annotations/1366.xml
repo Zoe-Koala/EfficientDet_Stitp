@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>1366.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>361</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>tv</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>182.08333333333334</xmin>
+      <ymin>95.58333333333334</ymin>
+      <xmax>437.08333333333337</xmax>
+      <ymax>283.5</ymax>
+    </bndbox>
+  </object>
+</annotation>

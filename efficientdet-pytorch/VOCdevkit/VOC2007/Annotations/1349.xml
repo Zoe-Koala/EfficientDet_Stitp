@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>1349.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>480</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>phone</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>47.862433862433846</xmin>
+      <ymin>173.07407407407408</ymin>
+      <xmax>189.13227513227514</xmax>
+      <ymax>431.80423280423275</ymax>
+    </bndbox>
+  </object>
+</annotation>

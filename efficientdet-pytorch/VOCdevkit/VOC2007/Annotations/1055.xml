@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>1055.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>427</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>head</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>376.5</xmin>
+      <ymin>233.79629629629628</ymin>
+      <xmax>638</xmax>
+      <ymax>426</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>phone</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>454.7407407407407</xmin>
+      <ymin>104.62962962962962</ymin>
+      <xmax>562.6111111111111</xmax>
+      <ymax>248.14814814814812</ymax>
+    </bndbox>
+  </object>
+</annotation>

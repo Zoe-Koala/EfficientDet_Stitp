@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>0969.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>425</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>head</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>280.66820276497697</xmin>
+      <ymin>114.74654377880185</ymin>
+      <xmax>342.4193548387097</xmax>
+      <ymax>179.72350230414747</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hand</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>332.741935483871</xmin>
+      <ymin>234.56221198156683</ymin>
+      <xmax>364.53917050691246</xmax>
+      <ymax>260.36866359447004</ymax>
+    </bndbox>
+  </object>
+</annotation>

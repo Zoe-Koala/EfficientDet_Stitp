@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>0669.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>480</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>head</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>183.50515463917526</xmin>
+      <ymin>375.41237113402065</ymin>
+      <xmax>200.0</xmax>
+      <ymax>397.0618556701031</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>head</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>325.7731958762887</xmin>
+      <ymin>377.4742268041237</ymin>
+      <xmax>338.1443298969072</xmax>
+      <ymax>390.87628865979383</ymax>
+    </bndbox>
+  </object>
+</annotation>

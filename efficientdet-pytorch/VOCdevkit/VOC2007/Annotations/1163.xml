@@ -1,0 +1,37 @@
+<annotation>
+  <folder/>
+  <filename>1163.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>478</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>head</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>122.55440414507774</xmin>
+      <ymin>99.48186528497409</ymin>
+      <xmax>231.36269430051817</xmax>
+      <ymax>219.17098445595855</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tv</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>4.937823834196891</xmin>
+      <ymin>262.1761658031088</ymin>
+      <xmax>287.83937823834196</xmax>
+      <ymax>393.78238341968915</ymax>
+    </bndbox>
+  </object>
+</annotation>
